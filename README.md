@@ -25,4 +25,6 @@ Nombre de balle par groupement
 Représentation des groupements
 Le groupement est défini par le minimum de distance à parcourir entre les balles et la remorque.
 
+Commentaire KAN.
+
 
